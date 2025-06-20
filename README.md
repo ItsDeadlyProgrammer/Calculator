@@ -30,7 +30,7 @@ Welcome to **CalculatorApp** — a feature-rich, Jetpack Compose-based Android c
 ## 📦 Setup Instructions
 
 1. Clone this repository.
-2. Open the project in **Android Studio (Giraffe or newer)**.
+2. Open the project in **Android Studio**.
 3. Sync Gradle to download dependencies.
 4. Run the app on an emulator or physical Android device.
 5. Start calculating and plotting!
